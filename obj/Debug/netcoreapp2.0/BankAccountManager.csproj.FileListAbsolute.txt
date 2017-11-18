@@ -1,0 +1,10 @@
+E:\[C#] Projects\BankAccountManager\bin\Debug\netcoreapp2.0\BankAccountManager.deps.json
+E:\[C#] Projects\BankAccountManager\bin\Debug\netcoreapp2.0\BankAccountManager.runtimeconfig.json
+E:\[C#] Projects\BankAccountManager\bin\Debug\netcoreapp2.0\BankAccountManager.runtimeconfig.dev.json
+E:\[C#] Projects\BankAccountManager\bin\Debug\netcoreapp2.0\BankAccountManager.dll
+E:\[C#] Projects\BankAccountManager\bin\Debug\netcoreapp2.0\BankAccountManager.pdb
+E:\[C#] Projects\BankAccountManager\obj\Debug\netcoreapp2.0\BankAccountManager.csproj.CoreCompileInputs.cache
+E:\[C#] Projects\BankAccountManager\obj\Debug\netcoreapp2.0\BankAccountManager.AssemblyInfoInputs.cache
+E:\[C#] Projects\BankAccountManager\obj\Debug\netcoreapp2.0\BankAccountManager.AssemblyInfo.cs
+E:\[C#] Projects\BankAccountManager\obj\Debug\netcoreapp2.0\BankAccountManager.dll
+E:\[C#] Projects\BankAccountManager\obj\Debug\netcoreapp2.0\BankAccountManager.pdb
